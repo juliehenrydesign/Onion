@@ -1,0 +1,37 @@
+h1, .special-subheader	{
+	color: #006400;
+	font-family: "Georgia";
+	text-align: center;
+}
+
+h2	{
+	font-family: "Georgia";
+	text-align: center;
+}	
+
+p 	{
+	line-height: 30px;
+
+}
+
+.like {
+	text-transform: uppercase;
+	
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
